@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "514676264302",
+    "firebase_url": "https://familyletter-prj.firebaseio.com",
+    "project_id": "familyletter-prj",
+    "storage_bucket": "familyletter-prj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514676264302:android:738da89fa05ff56605057f",
+        "android_client_info": {
+          "package_name": "com.example.familyletter_prj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514676264302-e1t6h2ougmpgsjgn248o1kud200it0o2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY-0hbh7vp5dpeJb1bEWwjbJbvKp0UpMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514676264302-e1t6h2ougmpgsjgn248o1kud200it0o2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
